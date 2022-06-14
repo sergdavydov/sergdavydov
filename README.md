@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergdavydov
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning QA
+- 🌱 I’m  QA Engineer with experience 0.4 + experience
 - 💞️ I’m looking to collaborate on projects and being part of new team
 - 📫 Reach me ...by email: serg.davydov7@gmail.com or by mobile: 097 368 85 45
 
